@@ -1,0 +1,20 @@
+/**********************************************************/
+/*                                                        */
+/*  Technology hub                                        */
+/*  datestamp: 6 November 2023                            */
+/*  timestamp: 10:34 - TODO                               */
+/*                                                        */
+/**********************************************************/
+
+body { background-color: #333; color: #fff; }
+
+h1 { color: #ca9ccb; }
+a { color: #F7FF00; font-weight: bold; }
+a:focus, a:hover { text-decoration: none; }
+
+footer { text-align: center; font-size: 1.4rem; }
+
+.UserDetails label { display: block; margin: 1rem; width: min-content; }
+.RadioCheck label { display: flex; gap: .5rem; width: min-content; white-space: nowrap; }
+.RadioCheck label input { margin: 0; }
+.TechnologyForm .FormsButton { margin-top: 1rem; padding: 0.2rem 2rem; border-radius: 4px; }
